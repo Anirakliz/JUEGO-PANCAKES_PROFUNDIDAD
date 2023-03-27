@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679892151 source:c:\users\amirak\desktop\anirak_ia\ia_bp\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+
